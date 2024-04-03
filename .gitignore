@@ -1,0 +1,8 @@
+*.o
+ffmpeg
+julia
+/*.gif
+*.tiff
+*.png
+*.pfm
+*.avi
